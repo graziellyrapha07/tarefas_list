@@ -1,0 +1,28 @@
+
+.container{
+    display: flex;
+    border: 3px solid;
+    gap: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+}
+    
+.new-task-container{
+    border: 1px solid #a32323;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 80px;
+    gap: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border-bottom: 10px;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(134, 8, 115);
+   
+}
